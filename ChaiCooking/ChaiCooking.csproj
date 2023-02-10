@@ -1,0 +1,180 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebugType>pdbonly</DebugType>
+    <DebugSymbols>true</DebugSymbols>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="VimeoDotNet" Version="2.2.0" />
+    <PackageReference Include="Xamarin.Forms" Version="5.0.0.2515" />
+    <PackageReference Include="Xamarin.FFImageLoading.Svg.Forms" Version="2.4.11.982" />
+    <PackageReference Include="Xamarin.FFImageLoading.Transformations" Version="2.4.11.982" />
+    <PackageReference Include="Xamarin.FFImageLoading.Forms" Version="2.4.11.982" />
+    <PackageReference Include="Xam.Plugin.Connectivity" Version="3.2.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="VG.XFShapeView" Version="1.0.5" />
+    <PackageReference Include="Toasts.Forms.Plugin" Version="3.3.2" />
+    <PackageReference Include="CsvHelper" Version="30.0.1" />
+    <PackageReference Include="Refractored.XamForms.PullToRefresh" Version="2.4.1" />
+    <PackageReference Include="Plugin.FacebookClient" Version="4.0.1" />
+    <PackageReference Include="Xam.Plugin.DeviceInfo" Version="4.1.1" />
+    <PackageReference Include="XamForms.Enhanced.Calendar" Version="1.8.0" />
+    <PackageReference Include="Xamarin.Essentials" Version="1.7.3" />
+    <PackageReference Include="Plugin.MediaManager.Forms" Version="1.1.1" />
+    <PackageReference Include="Octane.Xam.VideoPlayer" Version="3.1.0" />
+    <PackageReference Include="Plugin.MediaManager" Version="1.1.1" />
+    <PackageReference Include="Plugin.InAppBilling" Version="6.7.0" />
+    <PackageReference Include="Xamarin.CommunityToolkit" Version="2.0.5" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Branding\" />
+    <Folder Include="Localisation\" />
+    <Folder Include="Components\Buttons\" />
+    <Folder Include="Components\Fields\" />
+    <Folder Include="Components\Composites\" />
+    <Folder Include="Components\Lists\" />
+    <Folder Include="DebugData\" />
+    <Folder Include="DebugData\Custom\" />
+    <Folder Include="Components\Tiles\" />
+    <Folder Include="AppData\" />
+    <Folder Include="Helpers\Custom\" />
+    <Folder Include="Components\Buttons\Social\" />
+    <Folder Include="Exceptions\" />
+    <Folder Include="Models\Types\" />
+    <Folder Include="Layouts\Custom\Panels\Account\" />
+    <Folder Include="Layouts\Custom\Panels\Recipe\" />
+    <Folder Include="Components\Pickers\" />
+    <Folder Include="Components\Fields\Custom\" />
+    <Folder Include="Layouts\Custom\Panels\Tools\" />
+    <Folder Include="Services\Converters\" />
+    <Folder Include="Models\Custom\Feed\" />
+    <Folder Include="Models\Custom\InfluencerAPI\" />
+    <Folder Include="Models\Custom\AlbumAPI\" />
+    <Folder Include="Views\CollectionViews\" />
+    <Folder Include="Views\CollectionViews\AddEdit\" />
+    <Folder Include="Views\CollectionViews\IngredientFilter\" />
+    <Folder Include="Views\CollectionViews\Collections\" />
+    <Folder Include="Views\CollectionViews\Favourites\" />
+    <Folder Include="Views\CollectionViews\RecommendedRecipes\" />
+    <Folder Include="Views\CollectionViews\SearchResults\" />
+    <Folder Include="Views\CollectionViews\MealPlanHolder\" />
+    <Folder Include="Views\CollectionViews\MealPlanner\" />
+    <Folder Include="Views\CollectionViews\Calendar\" />
+    <Folder Include="Views\CollectionViews\WasteLess\" />
+    <Folder Include="Views\CollectionViews\ShoppingBasket\" />
+    <Folder Include="Models\Custom\ShoppingBasket\" />
+    <Folder Include="Views\CollectionViews\SingleInfluencer\" />
+    <Folder Include="Views\CollectionViews\InfluencerMealPreview\" />
+    <Folder Include="Views\CollectionViews\CreateOrSelect\" />
+    <Folder Include="Views\CollectionViews\RecipeEditor\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="App.xaml.cs" />
+    <Compile Remove="Layouts\Custom\SearchBox.cs" />
+    <Compile Remove="Pages\Custom\RestaurantMenu %28copy%29.cs" />
+    <Compile Remove="Layouts\Custom\CategoryLayout.cs" />
+    <Compile Remove="Layouts\Custom\RestuarantSummaryLayout.cs" />
+    <Compile Remove="Layouts\Custom\RestaurantLayout.cs" />
+    <Compile Remove="Layouts\Custom\OptionLayout.cs" />
+    <Compile Remove="Layouts\Custom\RestaurantSliderTileLayout.cs" />
+    <Compile Remove="Layouts\Custom\Header.cs" />
+    <Compile Remove="Layouts\Custom\MealLayout.cs" />
+    <Compile Remove="Layouts\Custom\RestaurantOptions.cs" />
+    <Compile Remove="Layouts\Custom\PageTitle.cs" />
+    <Compile Remove="Layouts\Custom\MealSearchBox.cs" />
+    <Compile Remove="Layouts\Custom\LocationSearchBox.cs" />
+    <Compile Remove="Models\Custom\Category.cs" />
+    <Compile Remove="Models\Custom\Order.cs" />
+    <Compile Remove="Models\Custom\Option.cs" />
+    <Compile Remove="Models\Custom\PaymentCard.cs" />
+    <Compile Remove="Models\Custom\Restaurant.cs" />
+    <Compile Remove="Pages\Custom\CategoryMenu.cs" />
+    <Compile Remove="Pages\Custom\OptionsMenu.cs" />
+    <Compile Remove="Pages\Custom\PhotoMeal.cs" />
+    <Compile Remove="Pages\Custom\OrderConfirmation.cs" />
+    <Compile Remove="Pages\Custom\Home.cs" />
+    <Compile Remove="Pages\Custom\RestaurantMenu.cs" />
+    <Compile Remove="Pages\Custom\DeliveryAddressConfirmation.cs" />
+    <Compile Remove="Pages\Custom\DeliveryDetails.cs" />
+    <Compile Remove="Pages\Custom\CreateAccount.cs" />
+    <Compile Remove="Pages\Custom\MealMenu.cs" />
+    <Compile Remove="Pages\Custom\Welcome.cs" />
+    <Compile Remove="Pages\Custom\CreateCard.cs" />
+    <Compile Remove="Pages\Custom\OrderComplete.cs" />
+    <Compile Remove="Layouts\Custom\TrendingSliderTileLayout.cs" />
+    <Compile Remove="Pages\Custom\TEEventsLandingPage.cs" />
+    <Compile Remove="Pages\Custom\TEEventsProgramPage.cs" />
+    <Compile Remove="Pages\Custom\TEEventsProgramPage2.cs" />
+    <Compile Remove="Pages\Custom\TEWhenAndWherePage.cs" />
+    <Compile Remove="Pages\Custom\TESingleEventPage.cs" />
+    <Compile Remove="Pages\Custom\TEYourSchedulePage.cs" />
+    <Compile Remove="Pages\Custom\TESummitSchedulePage.cs" />
+    <Compile Remove="Pages\Custom\TESingleSponsorPage.cs" />
+    <Compile Remove="Pages\Custom\TESponsorsPage.cs" />
+    <Compile Remove="Pages\Custom\TESingleSpeakerPage.cs" />
+    <Compile Remove="Pages\Custom\TESpeakersPage.cs" />
+    <Compile Remove="Pages\Custom\TESinglePresentationPage.cs" />
+    <Compile Remove="Models\Custom\LibraryItem.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="presentations.csv" />
+    <None Remove="Services\Storage\JsonReader.config" />
+    <None Remove="partners.csv" />
+    <None Remove="presentations %28copy%29.csv" />
+    <None Remove="partners %28copy%29.csv" />
+    <None Remove="recipe1.json" />
+    <None Remove="recipefeed.json" />
+    <None Remove="recipefeed %28copy%29.json" />
+    <None Remove="wastelessfeed %28copy%29.json" />
+    <None Remove="recipe1 %28copy%29.json" />
+    <None Remove="Models\Custom\ShoppingBasket\" />
+    <None Remove="Views\CollectionViews\SingleInfluencer\" />
+    <None Remove="Views\CollectionViews\InfluencerMealPreview\" />
+    <None Remove="Views\CollectionViews\CreateOrSelect\" />
+    <None Remove="Views\CollectionViews\RecipeEditor\" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="presentations.csv">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="partners.csv">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="presentations2.csv">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="speakers.csv">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="recipe1.json" />
+    <EmbeddedResource Include="recipefeed.json" />
+    <EmbeddedResource Include="wastelessfeed.json" />
+    <EmbeddedResource Include="favouritesfeed.json" />
+    <EmbeddedResource Include="folder_colors.json" />
+    <EmbeddedResource Include="mealplantemplate.json" />
+    <EmbeddedResource Include="jamieolivermealplan.json" />
+    <EmbeddedResource Include="mealplan.json" />
+    <EmbeddedResource Include="mealplanweek1.json" />
+    <EmbeddedResource Include="mealplanweek2.json" />
+    <EmbeddedResource Include="mealplanweek3.json" />
+    <EmbeddedResource Include="mealplanweek4.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,2315 @@
+{
+  "data": [
+    {
+      "day_number": 1,
+      "meal_templates": [
+        {
+          "meal_type": "breakfast",
+          "recipe": {
+            "recipe": {
+              "id": "108d98068d1-3607-4da7-853a-77d995c4913f",
+              "name": "APPLE JOHNNY CAKE (SERVED AS A PUDDING)",
+              "ingredients": [
+                { "text": "1 cup corn meal." },
+                { "text": "1\/4 teaspoonful of salt." },
+                { "text": "2 tablespoonfuls of sugar." },
+                { "text": "2\/3 cup flour." },
+                { "text": "1 teaspoonful of soda." },
+                { "text": "1 cup sour milk." },
+                { "text": "1 tablespoonful of melted butter." }
+              ],
+              "images": [ { "url": "https:\/\/whisk-res.cloudinary.com\/image\/upload\/v1592922082\/custom_upload\/d2e47aa9ad13fb2a06d48728d92c16d0.jpg" } ],
+              "source": {
+                "name": "a7a0262a-457d-4b29-8611-d920a7de5205",
+                "display_name": "Michigan State University Digital",
+                "license": "LICENCE_FAIRUSE"
+              },
+              "labels": {
+                "meal_type": [
+                  {
+                    "name": "dinner",
+                    "display_name": "Dinner"
+                  }
+                ],
+                "cuisine": [
+                  {
+                    "name": "french",
+                    "display_name": "French"
+                  }
+                ],
+                "category": [
+                  {
+                    "name": "lunch",
+                    "display_name": "Lunch"
+                  },
+                  {
+                    "name": "dinner",
+                    "display_name": "Dinner"
+                  }
+                ],
+                "technique": [
+                  {
+                    "name": "simmering",
+                    "display_name": "Simmering"
+                  },
+                  {
+                    "name": "pan-frying",
+                    "display_name": "Pan Frying"
+                  }
+                ]
+              },
+              "constraints": {
+                "violates": {
+                  "diets": [ "DIET_OVO_VEGETARIAN", "DIET_GLUTEN_FREE", "DIET_VEGAN", "DIET_DAIRY_FREE" ],
+                  "avoidances": [ "AVOIDANCE_MILK", "AVOIDANCE_WHEAT", "AVOIDANCE_LACTOSE", "AVOIDANCE_GLUTEN" ]
+                }
+              },
+              "language": "en"
+            },
+            "chai": {
+              "id": 8893,
+              "name": "APPLE JOHNNY CAKE (SERVED AS A PUDDING) WHISK TEST",
+              "prep_time": 0,
+              "cook_time": 0,
+              "total_time": 60,
+              "method": "something or other",
+              "meal_category": {
+                "id": 1,
+                "name": "Appetizers"
+              },
+              "core_ingredient": {
+                "id": 1,
+                "name": "Mushrooms"
+              }
+            }
+          }
+        },
+        {
+          "meal_type": "lunch",
+          "recipe": {
+            "recipe": {
+              "id": "108d98068d1-3607-4da7-853a-77d995c4913f",
+              "name": "APPLE JOHNNY CAKE (SERVED AS A PUDDING)",
+              "ingredients": [
+                { "text": "1 cup corn meal." },
+                { "text": "1\/4 teaspoonful of salt." },
+                { "text": "2 tablespoonfuls of sugar." },
+                { "text": "2\/3 cup flour." },
+                { "text": "1 teaspoonful of soda." },
+                { "text": "1 cup sour milk." },
+                { "text": "1 tablespoonful of melted butter." }
+              ],
+              "images": [ { "url": "https:\/\/whisk-res.cloudinary.com\/image\/upload\/v1592922082\/custom_upload\/d2e47aa9ad13fb2a06d48728d92c16d0.jpg" } ],
+              "source": {
+                "name": "a7a0262a-457d-4b29-8611-d920a7de5205",
+                "display_name": "Michigan State University Digital",
+                "license": "LICENCE_FAIRUSE"
+              },
+              "labels": {
+                "meal_type": [
+                  {
+                    "name": "dinner",
+                    "display_name": "Dinner"
+                  }
+                ],
+                "cuisine": [
+                  {
+                    "name": "french",
+                    "display_name": "French"
+                  }
+                ],
+                "category": [
+                  {
+                    "name": "lunch",
+                    "display_name": "Lunch"
+                  },
+                  {
+                    "name": "dinner",
+                    "display_name": "Dinner"
+                  }
+                ],
+                "technique": [
+                  {
+                    "name": "simmering",
+                    "display_name": "Simmering"
+                  },
+                  {
+                    "name": "pan-frying",
+                    "display_name": "Pan Frying"
+                  }
+                ]
+              },
+              "constraints": {
+                "violates": {
+                  "diets": [ "DIET_OVO_VEGETARIAN", "DIET_GLUTEN_FREE", "DIET_VEGAN", "DIET_DAIRY_FREE" ],
+                  "avoidances": [ "AVOIDANCE_MILK", "AVOIDANCE_WHEAT", "AVOIDANCE_LACTOSE", "AVOIDANCE_GLUTEN" ]
+                }
+              },
+              "language": "en"
+            },
+            "chai": {
+              "id": 8893,
+              "name": "APPLE JOHNNY CAKE (SERVED AS A PUDDING) WHISK TEST",
+              "prep_time": 0,
+              "cook_time": 0,
+              "total_time": 60,
+              "method": "something or other",
+              "meal_category": {
+                "id": 1,
+                "name": "Appetizers"
+              },
+              "core_ingredient": {
+                "id": 1,
+                "name": "Mushrooms"
+              }
+            }
+          }
+        },
+        {
+          "meal_type": "dinner",
+          "recipe": {
+            "recipe": {
+              "id": "108d98068d1-3607-4da7-853a-77d995c4913f",
+              "name": "APPLE JOHNNY CAKE (SERVED AS A PUDDING)",
+              "ingredients": [
+                { "text": "1 cup corn meal." },
+                { "text": "1\/4 teaspoonful of salt." },
+                { "text": "2 tablespoonfuls of sugar." },
+                { "text": "2\/3 cup flour." },
+                { "text": "1 teaspoonful of soda." },
+                { "text": "1 cup sour milk." },
+                { "text": "1 tablespoonful of melted butter." }
+              ],
+              "images": [ { "url": "https:\/\/whisk-res.cloudinary.com\/image\/upload\/v1592922082\/custom_upload\/d2e47aa9ad13fb2a06d48728d92c16d0.jpg" } ],
+              "source": {
+                "name": "a7a0262a-457d-4b29-8611-d920a7de5205",
+                "display_name": "Michigan State University Digital",
+                "license": "LICENCE_FAIRUSE"
+              },
+              "labels": {
+                "meal_type": [
+                  {
+                    "name": "dinner",
+                    "display_name": "Dinner"
+                  }
+                ],
+                "cuisine": [
+                  {
+                    "name": "french",
+                    "display_name": "French"
+                  }
+                ],
+                "category": [
+                  {
+                    "name": "lunch",
+                    "display_name": "Lunch"
+                  },
+                  {
+                    "name": "dinner",
+                    "display_name": "Dinner"
+                  }
+                ],
+                "technique": [
+                  {
+                    "name": "simmering",
+                    "display_name": "Simmering"
+                  },
+                  {
+                    "name": "pan-frying",
+                    "display_name": "Pan Frying"
+                  }
+                ]
+              },
+              "constraints": {
+                "violates": {
+                  "diets": [ "DIET_OVO_VEGETARIAN", "DIET_GLUTEN_FREE", "DIET_VEGAN", "DIET_DAIRY_FREE" ],
+                  "avoidances": [ "AVOIDANCE_MILK", "AVOIDANCE_WHEAT", "AVOIDANCE_LACTOSE", "AVOIDANCE_GLUTEN" ]
+                }
+              },
+              "language": "en"
+            },
+            "chai": {
+              "id": 8893,
+              "name": "APPLE JOHNNY CAKE (SERVED AS A PUDDING) WHISK TEST",
+              "prep_time": 0,
+              "cook_time": 0,
+              "total_time": 60,
+              "method": "something or other",
+              "meal_category": {
+                "id": 1,
+                "name": "Appetizers"
+              },
+              "core_ingredient": {
+                "id": 1,
+                "name": "Mushrooms"
+              }
+            }
+          }
+        },
+        {
+          "meal_type": "snacks",
+          "recipe": {
+            "recipe": {
+              "id": "108d98068d1-3607-4da7-853a-77d995c4913f",
+              "name": "APPLE JOHNNY CAKE (SERVED AS A PUDDING)",
+              "ingredients": [
+                { "text": "1 cup corn meal." },
+                { "text": "1\/4 teaspoonful of salt." },
+                { "text": "2 tablespoonfuls of sugar." },
+                { "text": "2\/3 cup flour." },
+                { "text": "1 teaspoonful of soda." },
+                { "text": "1 cup sour milk." },
+                { "text": "1 tablespoonful of melted butter." }
+              ],
+              "images": [ { "url": "https:\/\/whisk-res.cloudinary.com\/image\/upload\/v1592922082\/custom_upload\/d2e47aa9ad13fb2a06d48728d92c16d0.jpg" } ],
+              "source": {
+                "name": "a7a0262a-457d-4b29-8611-d920a7de5205",
+                "display_name": "Michigan State University Digital",
+                "license": "LICENCE_FAIRUSE"
+              },
+              "labels": {
+                "meal_type": [
+                  {
+                    "name": "dinner",
+                    "display_name": "Dinner"
+                  }
+                ],
+                "cuisine": [
+                  {
+                    "name": "french",
+                    "display_name": "French"
+                  }
+                ],
+                "category": [
+                  {
+                    "name": "lunch",
+                    "display_name": "Lunch"
+                  },
+                  {
+                    "name": "dinner",
+                    "display_name": "Dinner"
+                  }
+                ],
+                "technique": [
+                  {
+                    "name": "simmering",
+                    "display_name": "Simmering"
+                  },
+                  {
+                    "name": "pan-frying",
+                    "display_name": "Pan Frying"
+                  }
+                ]
+              },
+              "constraints": {
+                "violates": {
+                  "diets": [ "DIET_OVO_VEGETARIAN", "DIET_GLUTEN_FREE", "DIET_VEGAN", "DIET_DAIRY_FREE" ],
+                  "avoidances": [ "AVOIDANCE_MILK", "AVOIDANCE_WHEAT", "AVOIDANCE_LACTOSE", "AVOIDANCE_GLUTEN" ]
+                }
+              },
+              "language": "en"
+            },
+            "chai": {
+              "id": 8893,
+              "name": "APPLE JOHNNY CAKE (SERVED AS A PUDDING) WHISK TEST",
+              "prep_time": 0,
+              "cook_time": 0,
+              "total_time": 60,
+              "method": "something or other",
+              "meal_category": {
+                "id": 1,
+                "name": "Appetizers"
+              },
+              "core_ingredient": {
+                "id": 1,
+                "name": "Mushrooms"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "day_number": 2,
+      "meal_templates": [
+        {
+          "meal_type": "breakfast",
+          "recipe": {
+            "recipe": {
+              "id": "1081efbc011-7575-4e9b-a17a-ccc35b6e60be",
+              "name": "WHOLE-WHEAT BREAD",
+              "ingredients": [
+                { "text": "1 pint boiling water." },
+                { "text": "1 pint sweet milk." },
+                { "text": "1\/2 Fleischman's yeast cake dissolved in luke-warm water." },
+                { "text": "1\/2 tablespoon salt." },
+                { "text": "Flour." }
+              ],
+              "images": [ { "url": "https:\/\/whisk-res.cloudinary.com\/image\/upload\/v1592923271\/custom_upload\/db03212133fd2ab0957c9d82118ebb99.jpg" } ],
+              "source": {
+                "name": "a7a0262a-457d-4b29-8611-d920a7de5205",
+                "display_name": "Michigan State University Digital",
+                "license": "LICENCE_FAIRUSE"
+              },
+              "labels": {
+                "meal_type": [
+                  {
+                    "name": "dinner",
+                    "display_name": "Dinner"
+                  }
+                ],
+                "cuisine": [
+                  {
+                    "name": "french",
+                    "display_name": "French"
+                  }
+                ],
+                "category": [
+                  {
+                    "name": "lunch",
+                    "display_name": "Lunch"
+                  },
+                  {
+                    "name": "dinner",
+                    "display_name": "Dinner"
+                  }
+                ],
+                "technique": [
+                  {
+                    "name": "simmering",
+                    "display_name": "Simmering"
+                  },
+                  {
+                    "name": "pan-frying",
+                    "display_name": "Pan Frying"
+                  }
+                ]
+              },
+              "constraints": {
+                "violates": {
+                  "diets": [ "DIET_DAIRY_FREE", "DIET_GLUTEN_FREE", "DIET_VEGAN", "DIET_OVO_VEGETARIAN" ],
+                  "avoidances": [ "AVOIDANCE_MILK", "AVOIDANCE_WHEAT", "AVOIDANCE_LACTOSE", "AVOIDANCE_YEAST", "AVOIDANCE_GLUTEN" ]
+                }
+              },
+              "language": "en"
+            },
+            "chai": {
+              "id": 8894,
+              "name": "WHOLE-WHEAT BREAD WHISK TEST",
+              "prep_time": 0,
+              "cook_time": 0,
+              "total_time": 60,
+              "method": "something or other",
+              "meal_category": {
+                "id": 1,
+                "name": "Appetizers"
+              },
+              "core_ingredient": {
+                "id": 1,
+                "name": "Mushrooms"
+              }
+            }
+          }
+        },
+        {
+          "meal_type": "lunch",
+          "recipe": {
+            "recipe": {
+              "id": "1081efbc011-7575-4e9b-a17a-ccc35b6e60be",
+              "name": "WHOLE-WHEAT BREAD",
+              "ingredients": [
+                { "text": "1 pint boiling water." },
+                { "text": "1 pint sweet milk." },
+                { "text": "1\/2 Fleischman's yeast cake dissolved in luke-warm water." },
+                { "text": "1\/2 tablespoon salt." },
+                { "text": "Flour." }
+              ],
+              "images": [ { "url": "https:\/\/whisk-res.cloudinary.com\/image\/upload\/v1592923271\/custom_upload\/db03212133fd2ab0957c9d82118ebb99.jpg" } ],
+              "source": {
+                "name": "a7a0262a-457d-4b29-8611-d920a7de5205",
+                "display_name": "Michigan State University Digital",
+                "license": "LICENCE_FAIRUSE"
+              },
+              "labels": {
+                "meal_type": [
+                  {
+                    "name": "dinner",
+                    "display_name": "Dinner"
+                  }
+                ],
+                "cuisine": [
+                  {
+                    "name": "french",
+                    "display_name": "French"
+                  }
+                ],
+                "category": [
+                  {
+                    "name": "lunch",
+                    "display_name": "Lunch"
+                  },
+                  {
+                    "name": "dinner",
+                    "display_name": "Dinner"
+                  }
+                ],
+                "technique": [
+                  {
+                    "name": "simmering",
+                    "display_name": "Simmering"
+                  },
+                  {
+                    "name": "pan-frying",
+                    "display_name": "Pan Frying"
+                  }
+                ]
+              },
+              "constraints": {
+                "violates": {
+                  "diets": [ "DIET_DAIRY_FREE", "DIET_GLUTEN_FREE", "DIET_VEGAN", "DIET_OVO_VEGETARIAN" ],
+                  "avoidances": [ "AVOIDANCE_MILK", "AVOIDANCE_WHEAT", "AVOIDANCE_LACTOSE", "AVOIDANCE_YEAST", "AVOIDANCE_GLUTEN" ]
+                }
+              },
+              "language": "en"
+            },
+            "chai": {
+              "id": 8894,
+              "name": "WHOLE-WHEAT BREAD WHISK TEST",
+              "prep_time": 0,
+              "cook_time": 0,
+              "total_time": 60,
+              "method": "something or other",
+              "meal_category": {
+                "id": 1,
+                "name": "Appetizers"
+              },
+              "core_ingredient": {
+                "id": 1,
+                "name": "Mushrooms"
+              }
+            }
+          }
+        },
+        {
+          "meal_type": "dinner",
+          "recipe": {
+            "recipe": {
+              "id": "1081efbc011-7575-4e9b-a17a-ccc35b6e60be",
+              "name": "WHOLE-WHEAT BREAD",
+              "ingredients": [
+                { "text": "1 pint boiling water." },
+                { "text": "1 pint sweet milk." },
+                { "text": "1\/2 Fleischman's yeast cake dissolved in luke-warm water." },
+                { "text": "1\/2 tablespoon salt." },
+                { "text": "Flour." }
+              ],
+              "images": [ { "url": "https:\/\/whisk-res.cloudinary.com\/image\/upload\/v1592923271\/custom_upload\/db03212133fd2ab0957c9d82118ebb99.jpg" } ],
+              "source": {
+                "name": "a7a0262a-457d-4b29-8611-d920a7de5205",
+                "display_name": "Michigan State University Digital",
+                "license": "LICENCE_FAIRUSE"
+              },
+              "labels": {
+                "meal_type": [
+                  {
+                    "name": "dinner",
+                    "display_name": "Dinner"
+                  }
+                ],
+                "cuisine": [
+                  {
+                    "name": "french",
+                    "display_name": "French"
+                  }
+                ],
+                "category": [
+                  {
+                    "name": "lunch",
+                    "display_name": "Lunch"
+                  },
+                  {
+                    "name": "dinner",
+                    "display_name": "Dinner"
+                  }
+                ],
+                "technique": [
+                  {
+                    "name": "simmering",
+                    "display_name": "Simmering"
+                  },
+                  {
+                    "name": "pan-frying",
+                    "display_name": "Pan Frying"
+                  }
+                ]
+              },
+              "constraints": {
+                "violates": {
+                  "diets": [ "DIET_DAIRY_FREE", "DIET_GLUTEN_FREE", "DIET_VEGAN", "DIET_OVO_VEGETARIAN" ],
+                  "avoidances": [ "AVOIDANCE_MILK", "AVOIDANCE_WHEAT", "AVOIDANCE_LACTOSE", "AVOIDANCE_YEAST", "AVOIDANCE_GLUTEN" ]
+                }
+              },
+              "language": "en"
+            },
+            "chai": {
+              "id": 8894,
+              "name": "WHOLE-WHEAT BREAD WHISK TEST",
+              "prep_time": 0,
+              "cook_time": 0,
+              "total_time": 60,
+              "method": "something or other",
+              "meal_category": {
+                "id": 1,
+                "name": "Appetizers"
+              },
+              "core_ingredient": {
+                "id": 1,
+                "name": "Mushrooms"
+              }
+            }
+          }
+        },
+        {
+          "meal_type": "snacks",
+          "recipe": {
+            "recipe": {
+              "id": "1081efbc011-7575-4e9b-a17a-ccc35b6e60be",
+              "name": "WHOLE-WHEAT BREAD",
+              "ingredients": [
+                { "text": "1 pint boiling water." },
+                { "text": "1 pint sweet milk." },
+                { "text": "1\/2 Fleischman's yeast cake dissolved in luke-warm water." },
+                { "text": "1\/2 tablespoon salt." },
+                { "text": "Flour." }
+              ],
+              "images": [ { "url": "https:\/\/whisk-res.cloudinary.com\/image\/upload\/v1592923271\/custom_upload\/db03212133fd2ab0957c9d82118ebb99.jpg" } ],
+              "source": {
+                "name": "a7a0262a-457d-4b29-8611-d920a7de5205",
+                "display_name": "Michigan State University Digital",
+                "license": "LICENCE_FAIRUSE"
+              },
+              "labels": {
+                "meal_type": [
+                  {
+                    "name": "dinner",
+                    "display_name": "Dinner"
+                  }
+                ],
+                "cuisine": [
+                  {
+                    "name": "french",
+                    "display_name": "French"
+                  }
+                ],
+                "category": [
+                  {
+                    "name": "lunch",
+                    "display_name": "Lunch"
+                  },
+                  {
+                    "name": "dinner",
+                    "display_name": "Dinner"
+                  }
+                ],
+                "technique": [
+                  {
+                    "name": "simmering",
+                    "display_name": "Simmering"
+                  },
+                  {
+                    "name": "pan-frying",
+                    "display_name": "Pan Frying"
+                  }
+                ]
+              },
+              "constraints": {
+                "violates": {
+                  "diets": [ "DIET_DAIRY_FREE", "DIET_GLUTEN_FREE", "DIET_VEGAN", "DIET_OVO_VEGETARIAN" ],
+                  "avoidances": [ "AVOIDANCE_MILK", "AVOIDANCE_WHEAT", "AVOIDANCE_LACTOSE", "AVOIDANCE_YEAST", "AVOIDANCE_GLUTEN" ]
+                }
+              },
+              "language": "en"
+            },
+            "chai": {
+              "id": 8894,
+              "name": "WHOLE-WHEAT BREAD WHISK TEST",
+              "prep_time": 0,
+              "cook_time": 0,
+              "total_time": 60,
+              "method": "something or other",
+              "meal_category": {
+                "id": 1,
+                "name": "Appetizers"
+              },
+              "core_ingredient": {
+                "id": 1,
+                "name": "Mushrooms"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "day_number": 3,
+      "meal_templates": [
+        {
+          "meal_type": "breakfast",
+          "recipe": {
+            "recipe": {
+              "id": "10866ad2503-34a1-4088-8516-c4d79167ca93",
+              "name": "Graham Bread.",
+              "ingredients": [
+                { "text": "2 1\/2 cups liquid (water or milk and water)." },
+                { "text": "1\/3 cup molasses." },
+                { "text": "1 1\/2 teaspoons salt." },
+                { "text": "1 yeast cake dissolved in 1\/4 cup lukewarm water." },
+                { "text": "3 cups Graham flour." },
+                { "text": "3 cups flour." }
+              ],
+              "images": [ { "url": "https:\/\/whisk-res.cloudinary.com\/image\/upload\/v1592923250\/custom_upload\/0e1f1008f211c53aef3519689495835f.jpg" } ],
+              "source": {
+                "name": "a7a0262a-457d-4b29-8611-d920a7de5205",
+                "display_name": "Michigan State University Digital",
+                "license": "LICENCE_FAIRUSE"
+              },
+              "labels": {
+                "meal_type": [
+                  {
+                    "name": "dinner",
+                    "display_name": "Dinner"
+                  }
+                ],
+                "cuisine": [
+                  {
+                    "name": "french",
+                    "display_name": "French"
+                  }
+                ],
+                "category": [
+                  {
+                    "name": "lunch",
+                    "display_name": "Lunch"
+                  },
+                  {
+                    "name": "dinner",
+                    "display_name": "Dinner"
+                  }
+                ],
+                "technique": [
+                  {
+                    "name": "simmering",
+                    "display_name": "Simmering"
+                  },
+                  {
+                    "name": "pan-frying",
+                    "display_name": "Pan Frying"
+                  }
+                ]
+              },
+              "constraints": {
+                "violates": {
+                  "diets": [ "DIET_GLUTEN_FREE" ],
+                  "avoidances": [ "AVOIDANCE_WHEAT", "AVOIDANCE_YEAST", "AVOIDANCE_GLUTEN" ]
+                }
+              },
+              "language": "en"
+            },
+            "chai": {
+              "id": 8895,
+              "name": "Graham Bread. WHISK TEST",
+              "prep_time": 0,
+              "cook_time": 0,
+              "total_time": 60,
+              "method": "something or other",
+              "meal_category": {
+                "id": 1,
+                "name": "Appetizers"
+              },
+              "core_ingredient": {
+                "id": 1,
+                "name": "Mushrooms"
+              }
+            }
+          }
+        },
+        {
+          "meal_type": "lunch",
+          "recipe": {
+            "recipe": {
+              "id": "10866ad2503-34a1-4088-8516-c4d79167ca93",
+              "name": "Graham Bread.",
+              "ingredients": [
+                { "text": "2 1\/2 cups liquid (water or milk and water)." },
+                { "text": "1\/3 cup molasses." },
+                { "text": "1 1\/2 teaspoons salt." },
+                { "text": "1 yeast cake dissolved in 1\/4 cup lukewarm water." },
+                { "text": "3 cups Graham flour." },
+                { "text": "3 cups flour." }
+              ],
+              "images": [ { "url": "https:\/\/whisk-res.cloudinary.com\/image\/upload\/v1592923250\/custom_upload\/0e1f1008f211c53aef3519689495835f.jpg" } ],
+              "source": {
+                "name": "a7a0262a-457d-4b29-8611-d920a7de5205",
+                "display_name": "Michigan State University Digital",
+                "license": "LICENCE_FAIRUSE"
+              },
+              "labels": {
+                "meal_type": [
+                  {
+                    "name": "dinner",
+                    "display_name": "Dinner"
+                  }
+                ],
+                "cuisine": [
+                  {
+                    "name": "french",
+                    "display_name": "French"
+                  }
+                ],
+                "category": [
+                  {
+                    "name": "lunch",
+                    "display_name": "Lunch"
+                  },
+                  {
+                    "name": "dinner",
+                    "display_name": "Dinner"
+                  }
+                ],
+                "technique": [
+                  {
+                    "name": "simmering",
+                    "display_name": "Simmering"
+                  },
+                  {
+                    "name": "pan-frying",
+                    "display_name": "Pan Frying"
+                  }
+                ]
+              },
+              "constraints": {
+                "violates": {
+                  "diets": [ "DIET_GLUTEN_FREE" ],
+                  "avoidances": [ "AVOIDANCE_WHEAT", "AVOIDANCE_YEAST", "AVOIDANCE_GLUTEN" ]
+                }
+              },
+              "language": "en"
+            },
+            "chai": {
+              "id": 8895,
+              "name": "Graham Bread. WHISK TEST",
+              "prep_time": 0,
+              "cook_time": 0,
+              "total_time": 60,
+              "method": "something or other",
+              "meal_category": {
+                "id": 1,
+                "name": "Appetizers"
+              },
+              "core_ingredient": {
+                "id": 1,
+                "name": "Mushrooms"
+              }
+            }
+          }
+        },
+        {
+          "meal_type": "dinner",
+          "recipe": {
+            "recipe": {
+              "id": "10866ad2503-34a1-4088-8516-c4d79167ca93",
+              "name": "Graham Bread.",
+              "ingredients": [
+                { "text": "2 1\/2 cups liquid (water or milk and water)." },
+                { "text": "1\/3 cup molasses." },
+                { "text": "1 1\/2 teaspoons salt." },
+                { "text": "1 yeast cake dissolved in 1\/4 cup lukewarm water." },
+                { "text": "3 cups Graham flour." },
+                { "text": "3 cups flour." }
+              ],
+              "images": [ { "url": "https:\/\/whisk-res.cloudinary.com\/image\/upload\/v1592923250\/custom_upload\/0e1f1008f211c53aef3519689495835f.jpg" } ],
+              "source": {
+                "name": "a7a0262a-457d-4b29-8611-d920a7de5205",
+                "display_name": "Michigan State University Digital",
+                "license": "LICENCE_FAIRUSE"
+              },
+              "labels": {
+                "meal_type": [
+                  {
+                    "name": "dinner",
+                    "display_name": "Dinner"
+                  }
+                ],
+                "cuisine": [
+                  {
+                    "name": "french",
+                    "display_name": "French"
+                  }
+                ],
+                "category": [
+                  {
+                    "name": "lunch",
+                    "display_name": "Lunch"
+                  },
+                  {
+                    "name": "dinner",
+                    "display_name": "Dinner"
+                  }
+                ],
+                "technique": [
+                  {
+                    "name": "simmering",
+                    "display_name": "Simmering"
+                  },
+                  {
+                    "name": "pan-frying",
+                    "display_name": "Pan Frying"
+                  }
+                ]
+              },
+              "constraints": {
+                "violates": {
+                  "diets": [ "DIET_GLUTEN_FREE" ],
+                  "avoidances": [ "AVOIDANCE_WHEAT", "AVOIDANCE_YEAST", "AVOIDANCE_GLUTEN" ]
+                }
+              },
+              "language": "en"
+            },
+            "chai": {
+              "id": 8895,
+              "name": "Graham Bread. WHISK TEST",
+              "prep_time": 0,
+              "cook_time": 0,
+              "total_time": 60,
+              "method": "something or other",
+              "meal_category": {
+                "id": 1,
+                "name": "Appetizers"
+              },
+              "core_ingredient": {
+                "id": 1,
+                "name": "Mushrooms"
+              }
+            }
+          }
+        },
+        {
+          "meal_type": "snacks",
+          "recipe": {
+            "recipe": {
+              "id": "10866ad2503-34a1-4088-8516-c4d79167ca93",
+              "name": "Graham Bread.",
+              "ingredients": [
+                { "text": "2 1\/2 cups liquid (water or milk and water)." },
+                { "text": "1\/3 cup molasses." },
+                { "text": "1 1\/2 teaspoons salt." },
+                { "text": "1 yeast cake dissolved in 1\/4 cup lukewarm water." },
+                { "text": "3 cups Graham flour." },
+                { "text": "3 cups flour." }
+              ],
+              "images": [ { "url": "https:\/\/whisk-res.cloudinary.com\/image\/upload\/v1592923250\/custom_upload\/0e1f1008f211c53aef3519689495835f.jpg" } ],
+              "source": {
+                "name": "a7a0262a-457d-4b29-8611-d920a7de5205",
+                "display_name": "Michigan State University Digital",
+                "license": "LICENCE_FAIRUSE"
+              },
+              "labels": {
+                "meal_type": [
+                  {
+                    "name": "dinner",
+                    "display_name": "Dinner"
+                  }
+                ],
+                "cuisine": [
+                  {
+                    "name": "french",
+                    "display_name": "French"
+                  }
+                ],
+                "category": [
+                  {
+                    "name": "lunch",
+                    "display_name": "Lunch"
+                  },
+                  {
+                    "name": "dinner",
+                    "display_name": "Dinner"
+                  }
+                ],
+                "technique": [
+                  {
+                    "name": "simmering",
+                    "display_name": "Simmering"
+                  },
+                  {
+                    "name": "pan-frying",
+                    "display_name": "Pan Frying"
+                  }
+                ]
+              },
+              "constraints": {
+                "violates": {
+                  "diets": [ "DIET_GLUTEN_FREE" ],
+                  "avoidances": [ "AVOIDANCE_WHEAT", "AVOIDANCE_YEAST", "AVOIDANCE_GLUTEN" ]
+                }
+              },
+              "language": "en"
+            },
+            "chai": {
+              "id": 8895,
+              "name": "Graham Bread. WHISK TEST",
+              "prep_time": 0,
+              "cook_time": 0,
+              "total_time": 60,
+              "method": "something or other",
+              "meal_category": {
+                "id": 1,
+                "name": "Appetizers"
+              },
+              "core_ingredient": {
+                "id": 1,
+                "name": "Mushrooms"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "day_number": 4,
+      "meal_templates": [
+        {
+          "meal_type": "breakfast",
+          "recipe": {
+            "recipe": {
+              "id": "10873b2cbdb-d918-4303-887a-79f25f270b23",
+              "name": "CHESTNUT SAUCE",
+              "ingredients": [
+                { "text": "1\/2 pint of chestnuts" },
+                { "text": "1 pint of white stock" },
+                { "text": "2 rounding tablespoonfuls of butter" },
+                { "text": "1 level tablespoonful of flour" },
+                { "text": "1\/2 teaspoonful of salt" },
+                { "text": "1 saltspoonful of pepper" },
+                { "text": "1\/2 cup of cream" }
+              ],
+              "images": [ { "url": "https:\/\/whisk-res.cloudinary.com\/image\/upload\/v1592922091\/custom_upload\/6624372501963341ebe649f158958e75.jpg" } ],
+              "source": {
+                "name": "a7a0262a-457d-4b29-8611-d920a7de5205",
+                "display_name": "Michigan State University Digital",
+                "license": "LICENCE_FAIRUSE"
+              },
+              "labels": {
+                "meal_type": [
+                  {
+                    "name": "dinner",
+                    "display_name": "Dinner"
+                  }
+                ],
+                "cuisine": [
+                  {
+                    "name": "french",
+                    "display_name": "French"
+                  }
+                ],
+                "category": [
+                  {
+                    "name": "lunch",
+                    "display_name": "Lunch"
+                  },
+                  {
+                    "name": "dinner",
+                    "display_name": "Dinner"
+                  }
+                ],
+                "technique": [
+                  {
+                    "name": "simmering",
+                    "display_name": "Simmering"
+                  },
+                  {
+                    "name": "pan-frying",
+                    "display_name": "Pan Frying"
+                  }
+                ]
+              },
+              "constraints": {
+                "violates": {
+                  "diets": [ "DIET_OVO_VEGETARIAN", "DIET_GLUTEN_FREE", "DIET_VEGAN", "DIET_DAIRY_FREE" ],
+                  "avoidances": [ "AVOIDANCE_MILK", "AVOIDANCE_LACTOSE", "AVOIDANCE_WHEAT", "AVOIDANCE_GLUTEN" ]
+                }
+              },
+              "language": "en"
+            },
+            "chai": {
+              "id": 8896,
+              "name": "CHESTNUT SAUCE WHISK TEST",
+              "prep_time": 0,
+              "cook_time": 0,
+              "total_time": 60,
+              "method": "something or other",
+              "meal_category": {
+                "id": 1,
+                "name": "Appetizers"
+              },
+              "core_ingredient": {
+                "id": 1,
+                "name": "Mushrooms"
+              }
+            }
+          }
+        },
+        {
+          "meal_type": "lunch",
+          "recipe": {
+            "recipe": {
+              "id": "10873b2cbdb-d918-4303-887a-79f25f270b23",
+              "name": "CHESTNUT SAUCE",
+              "ingredients": [
+                { "text": "1\/2 pint of chestnuts" },
+                { "text": "1 pint of white stock" },
+                { "text": "2 rounding tablespoonfuls of butter" },
+                { "text": "1 level tablespoonful of flour" },
+                { "text": "1\/2 teaspoonful of salt" },
+                { "text": "1 saltspoonful of pepper" },
+                { "text": "1\/2 cup of cream" }
+              ],
+              "images": [ { "url": "https:\/\/whisk-res.cloudinary.com\/image\/upload\/v1592922091\/custom_upload\/6624372501963341ebe649f158958e75.jpg" } ],
+              "source": {
+                "name": "a7a0262a-457d-4b29-8611-d920a7de5205",
+                "display_name": "Michigan State University Digital",
+                "license": "LICENCE_FAIRUSE"
+              },
+              "labels": {
+                "meal_type": [
+                  {
+                    "name": "dinner",
+                    "display_name": "Dinner"
+                  }
+                ],
+                "cuisine": [
+                  {
+                    "name": "french",
+                    "display_name": "French"
+                  }
+                ],
+                "category": [
+                  {
+                    "name": "lunch",
+                    "display_name": "Lunch"
+                  },
+                  {
+                    "name": "dinner",
+                    "display_name": "Dinner"
+                  }
+                ],
+                "technique": [
+                  {
+                    "name": "simmering",
+                    "display_name": "Simmering"
+                  },
+                  {
+                    "name": "pan-frying",
+                    "display_name": "Pan Frying"
+                  }
+                ]
+              },
+              "constraints": {
+                "violates": {
+                  "diets": [ "DIET_OVO_VEGETARIAN", "DIET_GLUTEN_FREE", "DIET_VEGAN", "DIET_DAIRY_FREE" ],
+                  "avoidances": [ "AVOIDANCE_MILK", "AVOIDANCE_LACTOSE", "AVOIDANCE_WHEAT", "AVOIDANCE_GLUTEN" ]
+                }
+              },
+              "language": "en"
+            },
+            "chai": {
+              "id": 8896,
+              "name": "CHESTNUT SAUCE WHISK TEST",
+              "prep_time": 0,
+              "cook_time": 0,
+              "total_time": 60,
+              "method": "something or other",
+              "meal_category": {
+                "id": 1,
+                "name": "Appetizers"
+              },
+              "core_ingredient": {
+                "id": 1,
+                "name": "Mushrooms"
+              }
+            }
+          }
+        },
+        {
+          "meal_type": "dinner",
+          "recipe": {
+            "recipe": {
+              "id": "10873b2cbdb-d918-4303-887a-79f25f270b23",
+              "name": "CHESTNUT SAUCE",
+              "ingredients": [
+                { "text": "1\/2 pint of chestnuts" },
+                { "text": "1 pint of white stock" },
+                { "text": "2 rounding tablespoonfuls of butter" },
+                { "text": "1 level tablespoonful of flour" },
+                { "text": "1\/2 teaspoonful of salt" },
+                { "text": "1 saltspoonful of pepper" },
+                { "text": "1\/2 cup of cream" }
+              ],
+              "images": [ { "url": "https:\/\/whisk-res.cloudinary.com\/image\/upload\/v1592922091\/custom_upload\/6624372501963341ebe649f158958e75.jpg" } ],
+              "source": {
+                "name": "a7a0262a-457d-4b29-8611-d920a7de5205",
+                "display_name": "Michigan State University Digital",
+                "license": "LICENCE_FAIRUSE"
+              },
+              "labels": {
+                "meal_type": [
+                  {
+                    "name": "dinner",
+                    "display_name": "Dinner"
+                  }
+                ],
+                "cuisine": [
+                  {
+                    "name": "french",
+                    "display_name": "French"
+                  }
+                ],
+                "category": [
+                  {
+                    "name": "lunch",
+                    "display_name": "Lunch"
+                  },
+                  {
+                    "name": "dinner",
+                    "display_name": "Dinner"
+                  }
+                ],
+                "technique": [
+                  {
+                    "name": "simmering",
+                    "display_name": "Simmering"
+                  },
+                  {
+                    "name": "pan-frying",
+                    "display_name": "Pan Frying"
+                  }
+                ]
+              },
+              "constraints": {
+                "violates": {
+                  "diets": [ "DIET_OVO_VEGETARIAN", "DIET_GLUTEN_FREE", "DIET_VEGAN", "DIET_DAIRY_FREE" ],
+                  "avoidances": [ "AVOIDANCE_MILK", "AVOIDANCE_LACTOSE", "AVOIDANCE_WHEAT", "AVOIDANCE_GLUTEN" ]
+                }
+              },
+              "language": "en"
+            },
+            "chai": {
+              "id": 8896,
+              "name": "CHESTNUT SAUCE WHISK TEST",
+              "prep_time": 0,
+              "cook_time": 0,
+              "total_time": 60,
+              "method": "something or other",
+              "meal_category": {
+                "id": 1,
+                "name": "Appetizers"
+              },
+              "core_ingredient": {
+                "id": 1,
+                "name": "Mushrooms"
+              }
+            }
+          }
+        },
+        {
+          "meal_type": "snacks",
+          "recipe": {
+            "recipe": {
+              "id": "10873b2cbdb-d918-4303-887a-79f25f270b23",
+              "name": "CHESTNUT SAUCE",
+              "ingredients": [
+                { "text": "1\/2 pint of chestnuts" },
+                { "text": "1 pint of white stock" },
+                { "text": "2 rounding tablespoonfuls of butter" },
+                { "text": "1 level tablespoonful of flour" },
+                { "text": "1\/2 teaspoonful of salt" },
+                { "text": "1 saltspoonful of pepper" },
+                { "text": "1\/2 cup of cream" }
+              ],
+              "images": [ { "url": "https:\/\/whisk-res.cloudinary.com\/image\/upload\/v1592922091\/custom_upload\/6624372501963341ebe649f158958e75.jpg" } ],
+              "source": {
+                "name": "a7a0262a-457d-4b29-8611-d920a7de5205",
+                "display_name": "Michigan State University Digital",
+                "license": "LICENCE_FAIRUSE"
+              },
+              "labels": {
+                "meal_type": [
+                  {
+                    "name": "dinner",
+                    "display_name": "Dinner"
+                  }
+                ],
+                "cuisine": [
+                  {
+                    "name": "french",
+                    "display_name": "French"
+                  }
+                ],
+                "category": [
+                  {
+                    "name": "lunch",
+                    "display_name": "Lunch"
+                  },
+                  {
+                    "name": "dinner",
+                    "display_name": "Dinner"
+                  }
+                ],
+                "technique": [
+                  {
+                    "name": "simmering",
+                    "display_name": "Simmering"
+                  },
+                  {
+                    "name": "pan-frying",
+                    "display_name": "Pan Frying"
+                  }
+                ]
+              },
+              "constraints": {
+                "violates": {
+                  "diets": [ "DIET_OVO_VEGETARIAN", "DIET_GLUTEN_FREE", "DIET_VEGAN", "DIET_DAIRY_FREE" ],
+                  "avoidances": [ "AVOIDANCE_MILK", "AVOIDANCE_LACTOSE", "AVOIDANCE_WHEAT", "AVOIDANCE_GLUTEN" ]
+                }
+              },
+              "language": "en"
+            },
+            "chai": {
+              "id": 8896,
+              "name": "CHESTNUT SAUCE WHISK TEST",
+              "prep_time": 0,
+              "cook_time": 0,
+              "total_time": 60,
+              "method": "something or other",
+              "meal_category": {
+                "id": 1,
+                "name": "Appetizers"
+              },
+              "core_ingredient": {
+                "id": 1,
+                "name": "Mushrooms"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "day_number": 5,
+      "meal_templates": [
+        {
+          "meal_type": "breakfast",
+          "recipe": {
+            "recipe": {
+              "id": "108a9bc2604-800a-4b80-9ee4-5edc6cfe518b",
+              "name": "Green Corn Soup.",
+              "ingredients": [
+                { "text": "6 ears sweet corn, or enough to make 1 pint raw pulp." },
+                { "text": "Water to cover the ears." },
+                { "text": "1 pint milk, or cream." },
+                { "text": "1 teaspoonful salt." },
+                { "text": "1\/2 saltspoonful white pepper." },
+                { "text": "1 teaspoonful sugar." },
+                { "text": "1 teaspoonful flour." },
+                { "text": "1 tablespoonful butter." }
+              ],
+              "images": [ { "url": "https:\/\/whisk-res.cloudinary.com\/image\/upload\/v1592922114\/custom_upload\/db54cd9f34c6dbb3233cd19ede1950d7.jpg" } ],
+              "source": {
+                "name": "a7a0262a-457d-4b29-8611-d920a7de5205",
+                "display_name": "Michigan State University Digital",
+                "license": "LICENCE_FAIRUSE"
+              },
+              "labels": {
+                "meal_type": [
+                  {
+                    "name": "dinner",
+                    "display_name": "Dinner"
+                  }
+                ],
+                "cuisine": [
+                  {
+                    "name": "french",
+                    "display_name": "French"
+                  }
+                ],
+                "category": [
+                  {
+                    "name": "lunch",
+                    "display_name": "Lunch"
+                  },
+                  {
+                    "name": "dinner",
+                    "display_name": "Dinner"
+                  }
+                ],
+                "technique": [
+                  {
+                    "name": "simmering",
+                    "display_name": "Simmering"
+                  },
+                  {
+                    "name": "pan-frying",
+                    "display_name": "Pan Frying"
+                  }
+                ]
+              },
+              "constraints": {
+                "violates": {
+                  "diets": [ "DIET_OVO_VEGETARIAN", "DIET_GLUTEN_FREE", "DIET_VEGAN", "DIET_DAIRY_FREE" ],
+                  "avoidances": [ "AVOIDANCE_LACTOSE", "AVOIDANCE_MILK", "AVOIDANCE_WHEAT", "AVOIDANCE_GLUTEN" ]
+                }
+              },
+              "language": "en"
+            },
+            "chai": {
+              "id": 8897,
+              "name": "Green Corn Soup. WHISK TEST",
+              "prep_time": 0,
+              "cook_time": 0,
+              "total_time": 60,
+              "method": "something or other",
+              "meal_category": {
+                "id": 1,
+                "name": "Appetizers"
+              },
+              "core_ingredient": {
+                "id": 1,
+                "name": "Mushrooms"
+              }
+            }
+          }
+        },
+        {
+          "meal_type": "lunch",
+          "recipe": {
+            "recipe": {
+              "id": "108a9bc2604-800a-4b80-9ee4-5edc6cfe518b",
+              "name": "Green Corn Soup.",
+              "ingredients": [
+                { "text": "6 ears sweet corn, or enough to make 1 pint raw pulp." },
+                { "text": "Water to cover the ears." },
+                { "text": "1 pint milk, or cream." },
+                { "text": "1 teaspoonful salt." },
+                { "text": "1\/2 saltspoonful white pepper." },
+                { "text": "1 teaspoonful sugar." },
+                { "text": "1 teaspoonful flour." },
+                { "text": "1 tablespoonful butter." }
+              ],
+              "images": [ { "url": "https:\/\/whisk-res.cloudinary.com\/image\/upload\/v1592922114\/custom_upload\/db54cd9f34c6dbb3233cd19ede1950d7.jpg" } ],
+              "source": {
+                "name": "a7a0262a-457d-4b29-8611-d920a7de5205",
+                "display_name": "Michigan State University Digital",
+                "license": "LICENCE_FAIRUSE"
+              },
+              "labels": {
+                "meal_type": [
+                  {
+                    "name": "dinner",
+                    "display_name": "Dinner"
+                  }
+                ],
+                "cuisine": [
+                  {
+                    "name": "french",
+                    "display_name": "French"
+                  }
+                ],
+                "category": [
+                  {
+                    "name": "lunch",
+                    "display_name": "Lunch"
+                  },
+                  {
+                    "name": "dinner",
+                    "display_name": "Dinner"
+                  }
+                ],
+                "technique": [
+                  {
+                    "name": "simmering",
+                    "display_name": "Simmering"
+                  },
+                  {
+                    "name": "pan-frying",
+                    "display_name": "Pan Frying"
+                  }
+                ]
+              },
+              "constraints": {
+                "violates": {
+                  "diets": [ "DIET_OVO_VEGETARIAN", "DIET_GLUTEN_FREE", "DIET_VEGAN", "DIET_DAIRY_FREE" ],
+                  "avoidances": [ "AVOIDANCE_LACTOSE", "AVOIDANCE_MILK", "AVOIDANCE_WHEAT", "AVOIDANCE_GLUTEN" ]
+                }
+              },
+              "language": "en"
+            },
+            "chai": {
+              "id": 8897,
+              "name": "Green Corn Soup. WHISK TEST",
+              "prep_time": 0,
+              "cook_time": 0,
+              "total_time": 60,
+              "method": "something or other",
+              "meal_category": {
+                "id": 1,
+                "name": "Appetizers"
+              },
+              "core_ingredient": {
+                "id": 1,
+                "name": "Mushrooms"
+              }
+            }
+          }
+        },
+        {
+          "meal_type": "dinner",
+          "recipe": {
+            "recipe": {
+              "id": "108a9bc2604-800a-4b80-9ee4-5edc6cfe518b",
+              "name": "Green Corn Soup.",
+              "ingredients": [
+                { "text": "6 ears sweet corn, or enough to make 1 pint raw pulp." },
+                { "text": "Water to cover the ears." },
+                { "text": "1 pint milk, or cream." },
+                { "text": "1 teaspoonful salt." },
+                { "text": "1\/2 saltspoonful white pepper." },
+                { "text": "1 teaspoonful sugar." },
+                { "text": "1 teaspoonful flour." },
+                { "text": "1 tablespoonful butter." }
+              ],
+              "images": [ { "url": "https:\/\/whisk-res.cloudinary.com\/image\/upload\/v1592922114\/custom_upload\/db54cd9f34c6dbb3233cd19ede1950d7.jpg" } ],
+              "source": {
+                "name": "a7a0262a-457d-4b29-8611-d920a7de5205",
+                "display_name": "Michigan State University Digital",
+                "license": "LICENCE_FAIRUSE"
+              },
+              "labels": {
+                "meal_type": [
+                  {
+                    "name": "dinner",
+                    "display_name": "Dinner"
+                  }
+                ],
+                "cuisine": [
+                  {
+                    "name": "french",
+                    "display_name": "French"
+                  }
+                ],
+                "category": [
+                  {
+                    "name": "lunch",
+                    "display_name": "Lunch"
+                  },
+                  {
+                    "name": "dinner",
+                    "display_name": "Dinner"
+                  }
+                ],
+                "technique": [
+                  {
+                    "name": "simmering",
+                    "display_name": "Simmering"
+                  },
+                  {
+                    "name": "pan-frying",
+                    "display_name": "Pan Frying"
+                  }
+                ]
+              },
+              "constraints": {
+                "violates": {
+                  "diets": [ "DIET_OVO_VEGETARIAN", "DIET_GLUTEN_FREE", "DIET_VEGAN", "DIET_DAIRY_FREE" ],
+                  "avoidances": [ "AVOIDANCE_LACTOSE", "AVOIDANCE_MILK", "AVOIDANCE_WHEAT", "AVOIDANCE_GLUTEN" ]
+                }
+              },
+              "language": "en"
+            },
+            "chai": {
+              "id": 8897,
+              "name": "Green Corn Soup. WHISK TEST",
+              "prep_time": 0,
+              "cook_time": 0,
+              "total_time": 60,
+              "method": "something or other",
+              "meal_category": {
+                "id": 1,
+                "name": "Appetizers"
+              },
+              "core_ingredient": {
+                "id": 1,
+                "name": "Mushrooms"
+              }
+            }
+          }
+        },
+        {
+          "meal_type": "snacks",
+          "recipe": {
+            "recipe": {
+              "id": "108a9bc2604-800a-4b80-9ee4-5edc6cfe518b",
+              "name": "Green Corn Soup.",
+              "ingredients": [
+                { "text": "6 ears sweet corn, or enough to make 1 pint raw pulp." },
+                { "text": "Water to cover the ears." },
+                { "text": "1 pint milk, or cream." },
+                { "text": "1 teaspoonful salt." },
+                { "text": "1\/2 saltspoonful white pepper." },
+                { "text": "1 teaspoonful sugar." },
+                { "text": "1 teaspoonful flour." },
+                { "text": "1 tablespoonful butter." }
+              ],
+              "images": [ { "url": "https:\/\/whisk-res.cloudinary.com\/image\/upload\/v1592922114\/custom_upload\/db54cd9f34c6dbb3233cd19ede1950d7.jpg" } ],
+              "source": {
+                "name": "a7a0262a-457d-4b29-8611-d920a7de5205",
+                "display_name": "Michigan State University Digital",
+                "license": "LICENCE_FAIRUSE"
+              },
+              "labels": {
+                "meal_type": [
+                  {
+                    "name": "dinner",
+                    "display_name": "Dinner"
+                  }
+                ],
+                "cuisine": [
+                  {
+                    "name": "french",
+                    "display_name": "French"
+                  }
+                ],
+                "category": [
+                  {
+                    "name": "lunch",
+                    "display_name": "Lunch"
+                  },
+                  {
+                    "name": "dinner",
+                    "display_name": "Dinner"
+                  }
+                ],
+                "technique": [
+                  {
+                    "name": "simmering",
+                    "display_name": "Simmering"
+                  },
+                  {
+                    "name": "pan-frying",
+                    "display_name": "Pan Frying"
+                  }
+                ]
+              },
+              "constraints": {
+                "violates": {
+                  "diets": [ "DIET_OVO_VEGETARIAN", "DIET_GLUTEN_FREE", "DIET_VEGAN", "DIET_DAIRY_FREE" ],
+                  "avoidances": [ "AVOIDANCE_LACTOSE", "AVOIDANCE_MILK", "AVOIDANCE_WHEAT", "AVOIDANCE_GLUTEN" ]
+                }
+              },
+              "language": "en"
+            },
+            "chai": {
+              "id": 8897,
+              "name": "Green Corn Soup. WHISK TEST",
+              "prep_time": 0,
+              "cook_time": 0,
+              "total_time": 60,
+              "method": "something or other",
+              "meal_category": {
+                "id": 1,
+                "name": "Appetizers"
+              },
+              "core_ingredient": {
+                "id": 1,
+                "name": "Mushrooms"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "day_number": 6,
+      "meal_templates": [
+        {
+          "meal_type": "breakfast",
+          "recipe": {
+            "recipe": {
+              "id": "108d438f2c2-a637-4584-b1e7-c896f5b693ca",
+              "name": "Cream of Celery Soup. 276 Calories.",
+              "ingredients": [
+                { "text": "1 stalk celery." },
+                { "text": "2\/3 cup milk." },
+                { "text": "1\/2 tablespoon butter." },
+                { "text": "3\/4 tablespoon flour." },
+                { "text": "1\/4 cup cream." },
+                { "text": "Salt and pepper." }
+              ],
+              "images": [ { "url": "https:\/\/whisk-res.cloudinary.com\/image\/upload\/v1592923266\/custom_upload\/0e6bb3d604dcee9dcee14069873373e2.jpg" } ],
+              "source": {
+                "name": "a7a0262a-457d-4b29-8611-d920a7de5205",
+                "display_name": "Michigan State University Digital",
+                "license": "LICENCE_FAIRUSE"
+              },
+              "labels": {
+                "meal_type": [
+                  {
+                    "name": "dinner",
+                    "display_name": "Dinner"
+                  }
+                ],
+                "cuisine": [
+                  {
+                    "name": "french",
+                    "display_name": "French"
+                  }
+                ],
+                "category": [
+                  {
+                    "name": "lunch",
+                    "display_name": "Lunch"
+                  },
+                  {
+                    "name": "dinner",
+                    "display_name": "Dinner"
+                  }
+                ],
+                "technique": [
+                  {
+                    "name": "simmering",
+                    "display_name": "Simmering"
+                  },
+                  {
+                    "name": "pan-frying",
+                    "display_name": "Pan Frying"
+                  }
+                ]
+              },
+              "constraints": {
+                "violates": {
+                  "diets": [ "DIET_OVO_VEGETARIAN", "DIET_GLUTEN_FREE", "DIET_VEGAN", "DIET_DAIRY_FREE" ],
+                  "avoidances": [ "AVOIDANCE_LACTOSE", "AVOIDANCE_CELERY", "AVOIDANCE_MILK", "AVOIDANCE_WHEAT", "AVOIDANCE_GLUTEN" ]
+                }
+              },
+              "language": "en"
+            },
+            "chai": {
+              "id": 8898,
+              "name": "Cream of Celery Soup. 276 Calories. WHISK TEST",
+              "prep_time": 0,
+              "cook_time": 0,
+              "total_time": 60,
+              "method": "something or other",
+              "meal_category": {
+                "id": 1,
+                "name": "Appetizers"
+              },
+              "core_ingredient": {
+                "id": 1,
+                "name": "Mushrooms"
+              }
+            }
+          }
+        },
+        {
+          "meal_type": "lunch",
+          "recipe": {
+            "recipe": {
+              "id": "108d438f2c2-a637-4584-b1e7-c896f5b693ca",
+              "name": "Cream of Celery Soup. 276 Calories.",
+              "ingredients": [
+                { "text": "1 stalk celery." },
+                { "text": "2\/3 cup milk." },
+                { "text": "1\/2 tablespoon butter." },
+                { "text": "3\/4 tablespoon flour." },
+                { "text": "1\/4 cup cream." },
+                { "text": "Salt and pepper." }
+              ],
+              "images": [ { "url": "https:\/\/whisk-res.cloudinary.com\/image\/upload\/v1592923266\/custom_upload\/0e6bb3d604dcee9dcee14069873373e2.jpg" } ],
+              "source": {
+                "name": "a7a0262a-457d-4b29-8611-d920a7de5205",
+                "display_name": "Michigan State University Digital",
+                "license": "LICENCE_FAIRUSE"
+              },
+              "labels": {
+                "meal_type": [
+                  {
+                    "name": "dinner",
+                    "display_name": "Dinner"
+                  }
+                ],
+                "cuisine": [
+                  {
+                    "name": "french",
+                    "display_name": "French"
+                  }
+                ],
+                "category": [
+                  {
+                    "name": "lunch",
+                    "display_name": "Lunch"
+                  },
+                  {
+                    "name": "dinner",
+                    "display_name": "Dinner"
+                  }
+                ],
+                "technique": [
+                  {
+                    "name": "simmering",
+                    "display_name": "Simmering"
+                  },
+                  {
+                    "name": "pan-frying",
+                    "display_name": "Pan Frying"
+                  }
+                ]
+              },
+              "constraints": {
+                "violates": {
+                  "diets": [ "DIET_OVO_VEGETARIAN", "DIET_GLUTEN_FREE", "DIET_VEGAN", "DIET_DAIRY_FREE" ],
+                  "avoidances": [ "AVOIDANCE_LACTOSE", "AVOIDANCE_CELERY", "AVOIDANCE_MILK", "AVOIDANCE_WHEAT", "AVOIDANCE_GLUTEN" ]
+                }
+              },
+              "language": "en"
+            },
+            "chai": {
+              "id": 8898,
+              "name": "Cream of Celery Soup. 276 Calories. WHISK TEST",
+              "prep_time": 0,
+              "cook_time": 0,
+              "total_time": 60,
+              "method": "something or other",
+              "meal_category": {
+                "id": 1,
+                "name": "Appetizers"
+              },
+              "core_ingredient": {
+                "id": 1,
+                "name": "Mushrooms"
+              }
+            }
+          }
+        },
+        {
+          "meal_type": "dinner",
+          "recipe": {
+            "recipe": {
+              "id": "108d438f2c2-a637-4584-b1e7-c896f5b693ca",
+              "name": "Cream of Celery Soup. 276 Calories.",
+              "ingredients": [
+                { "text": "1 stalk celery." },
+                { "text": "2\/3 cup milk." },
+                { "text": "1\/2 tablespoon butter." },
+                { "text": "3\/4 tablespoon flour." },
+                { "text": "1\/4 cup cream." },
+                { "text": "Salt and pepper." }
+              ],
+              "images": [ { "url": "https:\/\/whisk-res.cloudinary.com\/image\/upload\/v1592923266\/custom_upload\/0e6bb3d604dcee9dcee14069873373e2.jpg" } ],
+              "source": {
+                "name": "a7a0262a-457d-4b29-8611-d920a7de5205",
+                "display_name": "Michigan State University Digital",
+                "license": "LICENCE_FAIRUSE"
+              },
+              "labels": {
+                "meal_type": [
+                  {
+                    "name": "dinner",
+                    "display_name": "Dinner"
+                  }
+                ],
+                "cuisine": [
+                  {
+                    "name": "french",
+                    "display_name": "French"
+                  }
+                ],
+                "category": [
+                  {
+                    "name": "lunch",
+                    "display_name": "Lunch"
+                  },
+                  {
+                    "name": "dinner",
+                    "display_name": "Dinner"
+                  }
+                ],
+                "technique": [
+                  {
+                    "name": "simmering",
+                    "display_name": "Simmering"
+                  },
+                  {
+                    "name": "pan-frying",
+                    "display_name": "Pan Frying"
+                  }
+                ]
+              },
+              "constraints": {
+                "violates": {
+                  "diets": [ "DIET_OVO_VEGETARIAN", "DIET_GLUTEN_FREE", "DIET_VEGAN", "DIET_DAIRY_FREE" ],
+                  "avoidances": [ "AVOIDANCE_LACTOSE", "AVOIDANCE_CELERY", "AVOIDANCE_MILK", "AVOIDANCE_WHEAT", "AVOIDANCE_GLUTEN" ]
+                }
+              },
+              "language": "en"
+            },
+            "chai": {
+              "id": 8898,
+              "name": "Cream of Celery Soup. 276 Calories. WHISK TEST",
+              "prep_time": 0,
+              "cook_time": 0,
+              "total_time": 60,
+              "method": "something or other",
+              "meal_category": {
+                "id": 1,
+                "name": "Appetizers"
+              },
+              "core_ingredient": {
+                "id": 1,
+                "name": "Mushrooms"
+              }
+            }
+          }
+        },
+        {
+          "meal_type": "snacks",
+          "recipe": {
+            "recipe": {
+              "id": "108d438f2c2-a637-4584-b1e7-c896f5b693ca",
+              "name": "Cream of Celery Soup. 276 Calories.",
+              "ingredients": [
+                { "text": "1 stalk celery." },
+                { "text": "2\/3 cup milk." },
+                { "text": "1\/2 tablespoon butter." },
+                { "text": "3\/4 tablespoon flour." },
+                { "text": "1\/4 cup cream." },
+                { "text": "Salt and pepper." }
+              ],
+              "images": [ { "url": "https:\/\/whisk-res.cloudinary.com\/image\/upload\/v1592923266\/custom_upload\/0e6bb3d604dcee9dcee14069873373e2.jpg" } ],
+              "source": {
+                "name": "a7a0262a-457d-4b29-8611-d920a7de5205",
+                "display_name": "Michigan State University Digital",
+                "license": "LICENCE_FAIRUSE"
+              },
+              "labels": {
+                "meal_type": [
+                  {
+                    "name": "dinner",
+                    "display_name": "Dinner"
+                  }
+                ],
+                "cuisine": [
+                  {
+                    "name": "french",
+                    "display_name": "French"
+                  }
+                ],
+                "category": [
+                  {
+                    "name": "lunch",
+                    "display_name": "Lunch"
+                  },
+                  {
+                    "name": "dinner",
+                    "display_name": "Dinner"
+                  }
+                ],
+                "technique": [
+                  {
+                    "name": "simmering",
+                    "display_name": "Simmering"
+                  },
+                  {
+                    "name": "pan-frying",
+                    "display_name": "Pan Frying"
+                  }
+                ]
+              },
+              "constraints": {
+                "violates": {
+                  "diets": [ "DIET_OVO_VEGETARIAN", "DIET_GLUTEN_FREE", "DIET_VEGAN", "DIET_DAIRY_FREE" ],
+                  "avoidances": [ "AVOIDANCE_LACTOSE", "AVOIDANCE_CELERY", "AVOIDANCE_MILK", "AVOIDANCE_WHEAT", "AVOIDANCE_GLUTEN" ]
+                }
+              },
+              "language": "en"
+            },
+            "chai": {
+              "id": 8898,
+              "name": "Cream of Celery Soup. 276 Calories. WHISK TEST",
+              "prep_time": 0,
+              "cook_time": 0,
+              "total_time": 60,
+              "method": "something or other",
+              "meal_category": {
+                "id": 1,
+                "name": "Appetizers"
+              },
+              "core_ingredient": {
+                "id": 1,
+                "name": "Mushrooms"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "day_number": 7,
+      "meal_templates": [
+        {
+          "meal_type": "breakfast",
+          "recipe": {
+            "recipe": {
+              "id": "108699fbaea-ebb4-4372-8e90-eddbaaf71682",
+              "name": "White Soup (from Veal).",
+              "ingredients": [
+                { "text": "4 pounds knuckle of veal." },
+                { "text": "3 quarts cold water." },
+                { "text": "1 even tablespoonful salt." },
+                { "text": "6 peppercorns." },
+                { "text": "2 small onions." },
+                { "text": "2 stalks celery." },
+                { "text": "1 pint milk." },
+                { "text": "1 tablespoonful butter." },
+                { "text": "1 heaping talbespoonful flour." },
+                { "text": "1 teaspoonful salt." },
+                { "text": "1 saltspoonful celery salt." },
+                { "text": "1\/2 saltspoonful white pepper." }
+              ],
+              "images": [ { "url": "https:\/\/whisk-res.cloudinary.com\/image\/upload\/v1592922100\/custom_upload\/6bbc98fb0546bdd33780c5ed683ec45f.jpg" } ],
+              "source": {
+                "name": "a7a0262a-457d-4b29-8611-d920a7de5205",
+                "display_name": "Michigan State University Digital",
+                "license": "LICENCE_FAIRUSE"
+              },
+              "labels": {
+                "meal_type": [
+                  {
+                    "name": "dinner",
+                    "display_name": "Dinner"
+                  }
+                ],
+                "cuisine": [
+                  {
+                    "name": "french",
+                    "display_name": "French"
+                  }
+                ],
+                "category": [
+                  {
+                    "name": "lunch",
+                    "display_name": "Lunch"
+                  },
+                  {
+                    "name": "dinner",
+                    "display_name": "Dinner"
+                  }
+                ],
+                "technique": [
+                  {
+                    "name": "simmering",
+                    "display_name": "Simmering"
+                  },
+                  {
+                    "name": "pan-frying",
+                    "display_name": "Pan Frying"
+                  }
+                ]
+              },
+              "constraints": {
+                "violates": {
+                  "diets": [ "DIET_OVO_VEGETARIAN", "DIET_GLUTEN_FREE", "DIET_VEGAN", "DIET_DAIRY_FREE" ],
+                  "avoidances": [ "AVOIDANCE_LACTOSE", "AVOIDANCE_MILK", "AVOIDANCE_WHEAT", "AVOIDANCE_CELERY", "AVOIDANCE_GLUTEN" ]
+                }
+              },
+              "language": "en"
+            },
+            "chai": {
+              "id": 8899,
+              "name": "White Soup (from Veal). WHISK TEST",
+              "prep_time": 0,
+              "cook_time": 0,
+              "total_time": 60,
+              "method": "something or other",
+              "meal_category": {
+                "id": 1,
+                "name": "Appetizers"
+              },
+              "core_ingredient": {
+                "id": 1,
+                "name": "Mushrooms"
+              }
+            }
+          }
+        },
+        {
+          "meal_type": "lunch",
+          "recipe": {
+            "recipe": {
+              "id": "108699fbaea-ebb4-4372-8e90-eddbaaf71682",
+              "name": "White Soup (from Veal).",
+              "ingredients": [
+                { "text": "4 pounds knuckle of veal." },
+                { "text": "3 quarts cold water." },
+                { "text": "1 even tablespoonful salt." },
+                { "text": "6 peppercorns." },
+                { "text": "2 small onions." },
+                { "text": "2 stalks celery." },
+                { "text": "1 pint milk." },
+                { "text": "1 tablespoonful butter." },
+                { "text": "1 heaping talbespoonful flour." },
+                { "text": "1 teaspoonful salt." },
+                { "text": "1 saltspoonful celery salt." },
+                { "text": "1\/2 saltspoonful white pepper." }
+              ],
+              "images": [ { "url": "https:\/\/whisk-res.cloudinary.com\/image\/upload\/v1592922100\/custom_upload\/6bbc98fb0546bdd33780c5ed683ec45f.jpg" } ],
+              "source": {
+                "name": "a7a0262a-457d-4b29-8611-d920a7de5205",
+                "display_name": "Michigan State University Digital",
+                "license": "LICENCE_FAIRUSE"
+              },
+              "labels": {
+                "meal_type": [
+                  {
+                    "name": "dinner",
+                    "display_name": "Dinner"
+                  }
+                ],
+                "cuisine": [
+                  {
+                    "name": "french",
+                    "display_name": "French"
+                  }
+                ],
+                "category": [
+                  {
+                    "name": "lunch",
+                    "display_name": "Lunch"
+                  },
+                  {
+                    "name": "dinner",
+                    "display_name": "Dinner"
+                  }
+                ],
+                "technique": [
+                  {
+                    "name": "simmering",
+                    "display_name": "Simmering"
+                  },
+                  {
+                    "name": "pan-frying",
+                    "display_name": "Pan Frying"
+                  }
+                ]
+              },
+              "constraints": {
+                "violates": {
+                  "diets": [ "DIET_OVO_VEGETARIAN", "DIET_GLUTEN_FREE", "DIET_VEGAN", "DIET_DAIRY_FREE" ],
+                  "avoidances": [ "AVOIDANCE_LACTOSE", "AVOIDANCE_MILK", "AVOIDANCE_WHEAT", "AVOIDANCE_CELERY", "AVOIDANCE_GLUTEN" ]
+                }
+              },
+              "language": "en"
+            },
+            "chai": {
+              "id": 8899,
+              "name": "White Soup (from Veal). WHISK TEST",
+              "prep_time": 0,
+              "cook_time": 0,
+              "total_time": 60,
+              "method": "something or other",
+              "meal_category": {
+                "id": 1,
+                "name": "Appetizers"
+              },
+              "core_ingredient": {
+                "id": 1,
+                "name": "Mushrooms"
+              }
+            }
+          }
+        },
+        {
+          "meal_type": "dinner",
+          "recipe": {
+            "recipe": {
+              "id": "108699fbaea-ebb4-4372-8e90-eddbaaf71682",
+              "name": "White Soup (from Veal).",
+              "ingredients": [
+                { "text": "4 pounds knuckle of veal." },
+                { "text": "3 quarts cold water." },
+                { "text": "1 even tablespoonful salt." },
+                { "text": "6 peppercorns." },
+                { "text": "2 small onions." },
+                { "text": "2 stalks celery." },
+                { "text": "1 pint milk." },
+                { "text": "1 tablespoonful butter." },
+                { "text": "1 heaping talbespoonful flour." },
+                { "text": "1 teaspoonful salt." },
+                { "text": "1 saltspoonful celery salt." },
+                { "text": "1\/2 saltspoonful white pepper." }
+              ],
+              "images": [ { "url": "https:\/\/whisk-res.cloudinary.com\/image\/upload\/v1592922100\/custom_upload\/6bbc98fb0546bdd33780c5ed683ec45f.jpg" } ],
+              "source": {
+                "name": "a7a0262a-457d-4b29-8611-d920a7de5205",
+                "display_name": "Michigan State University Digital",
+                "license": "LICENCE_FAIRUSE"
+              },
+              "labels": {
+                "meal_type": [
+                  {
+                    "name": "dinner",
+                    "display_name": "Dinner"
+                  }
+                ],
+                "cuisine": [
+                  {
+                    "name": "french",
+                    "display_name": "French"
+                  }
+                ],
+                "category": [
+                  {
+                    "name": "lunch",
+                    "display_name": "Lunch"
+                  },
+                  {
+                    "name": "dinner",
+                    "display_name": "Dinner"
+                  }
+                ],
+                "technique": [
+                  {
+                    "name": "simmering",
+                    "display_name": "Simmering"
+                  },
+                  {
+                    "name": "pan-frying",
+                    "display_name": "Pan Frying"
+                  }
+                ]
+              },
+              "constraints": {
+                "violates": {
+                  "diets": [ "DIET_OVO_VEGETARIAN", "DIET_GLUTEN_FREE", "DIET_VEGAN", "DIET_DAIRY_FREE" ],
+                  "avoidances": [ "AVOIDANCE_LACTOSE", "AVOIDANCE_MILK", "AVOIDANCE_WHEAT", "AVOIDANCE_CELERY", "AVOIDANCE_GLUTEN" ]
+                }
+              },
+              "language": "en"
+            },
+            "chai": {
+              "id": 8899,
+              "name": "White Soup (from Veal). WHISK TEST",
+              "prep_time": 0,
+              "cook_time": 0,
+              "total_time": 60,
+              "method": "something or other",
+              "meal_category": {
+                "id": 1,
+                "name": "Appetizers"
+              },
+              "core_ingredient": {
+                "id": 1,
+                "name": "Mushrooms"
+              }
+            }
+          }
+        },
+        {
+          "meal_type": "snacks",
+          "recipe": {
+            "recipe": {
+              "id": "108699fbaea-ebb4-4372-8e90-eddbaaf71682",
+              "name": "White Soup (from Veal).",
+              "ingredients": [
+                { "text": "4 pounds knuckle of veal." },
+                { "text": "3 quarts cold water." },
+                { "text": "1 even tablespoonful salt." },
+                { "text": "6 peppercorns." },
+                { "text": "2 small onions." },
+                { "text": "2 stalks celery." },
+                { "text": "1 pint milk." },
+                { "text": "1 tablespoonful butter." },
+                { "text": "1 heaping talbespoonful flour." },
+                { "text": "1 teaspoonful salt." },
+                { "text": "1 saltspoonful celery salt." },
+                { "text": "1\/2 saltspoonful white pepper." }
+              ],
+              "images": [ { "url": "https:\/\/whisk-res.cloudinary.com\/image\/upload\/v1592922100\/custom_upload\/6bbc98fb0546bdd33780c5ed683ec45f.jpg" } ],
+              "source": {
+                "name": "a7a0262a-457d-4b29-8611-d920a7de5205",
+                "display_name": "Michigan State University Digital",
+                "license": "LICENCE_FAIRUSE"
+              },
+              "labels": {
+                "meal_type": [
+                  {
+                    "name": "dinner",
+                    "display_name": "Dinner"
+                  }
+                ],
+                "cuisine": [
+                  {
+                    "name": "french",
+                    "display_name": "French"
+                  }
+                ],
+                "category": [
+                  {
+                    "name": "lunch",
+                    "display_name": "Lunch"
+                  },
+                  {
+                    "name": "dinner",
+                    "display_name": "Dinner"
+                  }
+                ],
+                "technique": [
+                  {
+                    "name": "simmering",
+                    "display_name": "Simmering"
+                  },
+                  {
+                    "name": "pan-frying",
+                    "display_name": "Pan Frying"
+                  }
+                ]
+              },
+              "constraints": {
+                "violates": {
+                  "diets": [ "DIET_OVO_VEGETARIAN", "DIET_GLUTEN_FREE", "DIET_VEGAN", "DIET_DAIRY_FREE" ],
+                  "avoidances": [ "AVOIDANCE_LACTOSE", "AVOIDANCE_MILK", "AVOIDANCE_WHEAT", "AVOIDANCE_CELERY", "AVOIDANCE_GLUTEN" ]
+                }
+              },
+              "language": "en"
+            },
+            "chai": {
+              "id": 8899,
+              "name": "White Soup (from Veal). WHISK TEST",
+              "prep_time": 0,
+              "cook_time": 0,
+              "total_time": 60,
+              "method": "something or other",
+              "meal_category": {
+                "id": 1,
+                "name": "Appetizers"
+              },
+              "core_ingredient": {
+                "id": 1,
+                "name": "Mushrooms"
+              }
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
